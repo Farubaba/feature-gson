@@ -11,13 +11,13 @@
   <url>http://maven.apache.org</url>
   
   <!-- 使用私有地址引用还没有发布到JCenter的库 -->
-  <!-- <repositories>
+  <repositories>
         <repository>
             <id>bintray-farubaba-java</id>
             <name>farubaba-java</name>
             <url>https://dl.bintray.com/farubaba/java/</url>
         </repository>
-  </repositories> -->
+  </repositories>
   
   <properties>
 	   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
